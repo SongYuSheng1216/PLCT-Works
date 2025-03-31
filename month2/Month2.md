@@ -11,5 +11,5 @@
 
 * 调研 https://images.oerv.ac.cn/ 
 
-  * [research report](./OERV Research.md)。
+  * [research report](./OERV Research.md)
 
